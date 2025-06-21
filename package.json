@@ -18,9 +18,14 @@
   "homepage": "https://github.com/gauravx999/portfolio7#readme",
   "description": "",
   "devDependencies": {
+    "@vitejs/plugin-react": "^4.5.2",
     "vite": "^6.3.5"
   },
   "dependencies": {
-    "react-scripts": "^5.0.1"
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "rimraf": "^6.0.1",
+    "sourcemap-codec": "^1.4.8",
+    "w3c-hr-time": "^1.0.2"
   }
 }
