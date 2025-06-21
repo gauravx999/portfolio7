@@ -16,5 +16,8 @@
     "url": "https://github.com/gauravx999/portfolio7/issues"
   },
   "homepage": "https://github.com/gauravx999/portfolio7#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
 }
