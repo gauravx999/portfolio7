@@ -14,9 +14,11 @@ Getting Started!
 
 
 3. Install dependencies:
+   
 :-  npm install
 
-4. Run the development server :
+5. Run the development server :
+   
 :- npm start
 
 
