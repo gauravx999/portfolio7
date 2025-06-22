@@ -7,12 +7,14 @@ This is a personal portfolio built with React. Follow the steps below to clone, 
 Getting Started!
 1. Clone the repository:
 :-git clone https://github.com/gauravx999/portfolio7.git
-   :-cd portfolio7
 
-2. Install dependencies:
+ :-cd portfolio7
+
+
+3. Install dependencies:
 :-  npm install
 
-3. Run the development server :
+4. Run the development server :
 :- npm start
 
 
